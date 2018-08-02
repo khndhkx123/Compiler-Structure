@@ -23,7 +23,7 @@
 	}
 
 #### Final Result of Project1
-![Final Result](https://github.com/khndhkx123/Compiler-Structure/blob/master/cp1/cp1.PNG)
+![Final Result1](https://github.com/khndhkx123/Compiler-Structure/blob/master/cp1/cp1.PNG)
 
 
 ### Project 2 : Create of C- Parser
@@ -51,3 +51,4 @@
 	}
 
 #### Final Result of Project2
+![Final Result2](https://github.com/khndhkx123/Compiler-Structure/blob/master/cp2/cp2.PNG)
