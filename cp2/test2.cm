@@ -1,0 +1,13 @@
+void funtwo(void)
+{
+	int car[40];
+	int drive;
+	while(car[i]>drive)
+	{
+		car[i]=(car[0]+car[1])/car[2];
+		drive=car[3]+(car[4]-car[5])*car[x+y];
+	}
+	funone(car, drive=11111+22222);
+	test();
+	return;
+}
