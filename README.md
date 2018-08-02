@@ -1,7 +1,4 @@
 ## All Project Specification of modify source code is in "Process Specification"
-
-
-
 ## Project All Implement of this original C-Code
      /*program to perform Euclid's
 	 Algorithm to computer gcd*/
