@@ -23,4 +23,4 @@
 	}
 
 #### Final Result of Project1
-![Alt text](Compiler-Structure/cp1/cp1.PNG)
+![Alt text](/Compiler-Structure/cp1/cp1.PNG)
