@@ -42,6 +42,6 @@
 - Implement symbol table and type checker
 - Traverse syntax tree created by paser
 
-#### Final Result of Project2
+#### Final Result of Project3
 ![Final Result3](https://github.com/khndhkx123/Compiler-Structure/blob/master/cp3/cp3.PNG)
 
