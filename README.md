@@ -1,3 +1,7 @@
+## All Project Specification of modify source code is in "Process Specification"
+
+
+
 ## Project All Implement of this original C-Code
      /*program to perform Euclid's
 	 Algorithm to computer gcd*/
@@ -15,8 +19,6 @@
     	x = input(); y = input();
     	output(gcd(x,y));
 	}
-
-## All Project Specification of modify source code is in "Process Specification"
 
 ### Project 1 : Create of C- Scanner
 
